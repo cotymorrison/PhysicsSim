@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicsSim", "PhysicsSim\PhysicsSim\PhysicsSim.csproj", "{9303D246-337B-4F48-BA35-0A0CDD06E561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicsSimContent", "PhysicsSim\PhysicsSimContent\PhysicsSimContent.contentproj", "{B98AB0E9-6753-400F-A605-E548BC1B5EA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0281210C-E543-424A-83F5-DEF0E90DD40C}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PhysicsSim.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Debug|Win32.ActiveCfg = Debug|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Debug|x86.ActiveCfg = Debug|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Debug|x86.Build.0 = Debug|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Release|Win32.ActiveCfg = Release|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Release|x86.ActiveCfg = Release|x86
+		{9303D246-337B-4F48-BA35-0A0CDD06E561}.Release|x86.Build.0 = Release|x86
+		{B98AB0E9-6753-400F-A605-E548BC1B5EA5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B98AB0E9-6753-400F-A605-E548BC1B5EA5}.Debug|Win32.ActiveCfg = Debug|x86
+		{B98AB0E9-6753-400F-A605-E548BC1B5EA5}.Debug|x86.ActiveCfg = Debug|x86
+		{B98AB0E9-6753-400F-A605-E548BC1B5EA5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B98AB0E9-6753-400F-A605-E548BC1B5EA5}.Release|Win32.ActiveCfg = Release|x86
+		{B98AB0E9-6753-400F-A605-E548BC1B5EA5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

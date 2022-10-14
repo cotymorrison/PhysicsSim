@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\brick_color_map.dds</Source>
+      <Name>Textures\brick_color_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\brick_color_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\brick_height_map.dds</Source>
+      <Name>Textures\brick_height_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\brick_height_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\brick_normal_map.dds</Source>
+      <Name>Textures\brick_normal_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\brick_normal_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\stone_color_map.dds</Source>
+      <Name>Textures\stone_color_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\stone_color_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\stone_height_map.dds</Source>
+      <Name>Textures\stone_height_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\stone_height_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\stone_normal_map.dds</Source>
+      <Name>Textures\stone_normal_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\stone_normal_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wood_color_map.dds</Source>
+      <Name>Textures\wood_color_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\wood_color_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wood_height_map.dds</Source>
+      <Name>Textures\wood_height_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\wood_height_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wood_normal_map.dds</Source>
+      <Name>Textures\wood_normal_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Textures\wood_normal_map.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD1.tga</Source>
+      <Name>WoodenBoxD1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD1.xnb</Output>
+      <Time>2011-10-12T12:31:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD2.tga</Source>
+      <Name>WoodenBoxD2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD2.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD3.tga</Source>
+      <Name>WoodenBoxD3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD3.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD4.tga</Source>
+      <Name>WoodenBoxD4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD4.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD5.tga</Source>
+      <Name>WoodenBoxD5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD5.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD6.tga</Source>
+      <Name>WoodenBoxD6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD6.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxN1.tga</Source>
+      <Name>WoodenBoxN1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxN1.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxN2.tga</Source>
+      <Name>WoodenBoxN2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxN2.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxN3.tga</Source>
+      <Name>WoodenBoxN3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxN3.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxN4.tga</Source>
+      <Name>WoodenBoxN4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxN4.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxN5.tga</Source>
+      <Name>WoodenBoxN5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxN5.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxN6.tga</Source>
+      <Name>WoodenBoxN6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxN6.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Wooden Box.fbx</Source>
+      <Name>Wooden Box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Wooden Box.xnb</Output>
+      <Time>2011-10-14T14:28:56-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Wooden Box_0.xml</Key>
+        <Value>2012-08-02T12:09:59.9037103-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD6_0.xnb</Request>
+      <Request>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD4_0.xnb</Request>
+      <Request>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD5_0.xnb</Request>
+      <Request>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD2_0.xnb</Request>
+      <Request>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD3_0.xnb</Request>
+      <Request>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>basiccube.fbx</Source>
+      <Name>basiccube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\basiccube.xnb</Output>
+      <Time>2011-10-21T11:02:40-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\basiccube_0.xml</Key>
+        <Value>2012-08-02T12:10:03.3957103-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>noisecube.fbx</Source>
+      <Name>noisecube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\noisecube.xnb</Output>
+      <Time>2011-10-21T11:13:48-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\noisecube_0.xml</Key>
+        <Value>2012-08-02T12:10:03.4607103-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\parallax_normal_mapping.fx</Source>
+      <Name>Effects\parallax_normal_mapping</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Effects\parallax_normal_mapping.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DemoFont.spritefont</Source>
+      <Name>Fonts\DemoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\Fonts\DemoFont.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Wooden Box.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Wooden Box_0.xml</Output>
+      <Time>2011-10-14T14:28:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD6.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD6_0.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD4.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD4_0.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD5.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD5_0.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD2.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD2_0.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD3.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD3_0.xnb</Output>
+      <Time>2011-10-12T12:31:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WoodenBoxD1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\WoodenBoxD1_0.xnb</Output>
+      <Time>2011-10-12T12:31:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>basiccube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\basiccube_0.xml</Output>
+      <Time>2011-10-21T11:02:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>noisecube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\noisecube_0.xml</Output>
+      <Time>2011-10-21T11:13:48-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSimContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSimContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Abastion\Desktop\PhysicsSim\PhysicsSim\PhysicsSim\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-09T16:39:57.4500933-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
